@@ -1,0 +1,9 @@
+body { 
+    background: rgb(228, 5, 5);
+    color: white;
+}
+
+.logo img {
+    justify-content: center;
+    align-items: center;
+}
